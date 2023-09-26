@@ -10,6 +10,7 @@ use Spatie\Enum\Enum;
 /**
  * @method static self document()
  * @method static self text()
+ * @method static self subject()
  */
 class MessageType extends Enum
 {
